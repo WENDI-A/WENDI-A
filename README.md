@@ -4,9 +4,11 @@
 
 ---
 
+
 ## 🧠 About Me
 
-I'm Wendimagegn Abera, a passionate **full-stack web developer** dedicated to building **modern, fast, and responsive web applications**. I specialize in turning ideas into functional, user-friendly software, combining clean code with intuitive UI/UX design. I thrive on solving **real-world problems** and constantly improving through **hands-on projects** and learning new technologies.
+I'm Wendimagegn Abera, a **Computer Science graduate from Hawassa University** and passionate **full-stack web developer**. I build **modern, fast, and responsive web applications**, turning ideas into user-friendly software with clean code and intuitive UI/UX. I enjoy **solving real-world problems** and continuously improving through hands-on projects and learning new technologies.
+
 
 ---
 
